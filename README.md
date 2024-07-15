@@ -2,7 +2,7 @@
 
 ## About Repository
 
-Project for creating a bank of competitive programming solutions from plaforms like Leetcode , Hackerrank etc.
+A project dedicated to creating a bank of competitive programming solutions from platforms like LeetCode, HackerRank, and others.
 
 ## Guideline and Conventions
 
