@@ -2,7 +2,7 @@
 
 ## About Repository
 
-A project dedicated to creating a bank of competitive programming solutions from platforms like LeetCode, HackerRank, and others.
+Project for creating a bank of competitive programming solutions from plaforms like Leetcode , Hackerrank etc.
 
 ## Guideline and Conventions
 
@@ -13,6 +13,8 @@ Leetcode
 |
 ├── Problems📁
 │   └── LQ(Leetcode Question)_rangeMin-rangeMax(range = 500)
+|       └── <"problem's number">.extension📜
+|
 ├── Dailys📁
    └── <"Weekly/Biweekly" "contest's number">📁
       └── <"problem's number">.extension📜
