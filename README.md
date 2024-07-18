@@ -22,3 +22,20 @@ Leetcode
 
 ```
 
+**LeetCode Problems Format :**
+
+```md
+
+## 1. Problem Name
+
+***Problem Statement***
+ 
+``
+Example 1:
+
+``
+
+## Solution
+
+```
+
